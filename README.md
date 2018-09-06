@@ -1,2 +1,2 @@
 # asp.net-project
-hw of ec512
+hw for ec512
